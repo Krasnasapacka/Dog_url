@@ -1,7 +1,7 @@
 Liudas Mažeika 2018_09_20
 
-Naudota Android Studio 2.3.1 programa.
+1)Naudota Android Studio 2.3.1 programa.
 
-Paveikslų įkėlimui naudota Picasso biblioteka.
+2)Paveikslų įkėlimui naudota Picasso biblioteka.
 
-"dog_urls.json" failas įdėtas "assets" aplanke.
+3)"dog_urls.json" failas įdėtas "assets" aplanke.
